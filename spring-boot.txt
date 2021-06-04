@@ -1,0 +1,25 @@
+1.Nauczylem sie ze, @ResponeBody sluzy do zwracania stringa 
+uzytkownikowi z metody, dzieki czemu w projekcie uzylem tylko
+@GetMapping aby strona wyswietlala sie przez "szkielet" plików html.
+
+
+2.Dowiedzialem sie o interfejsie @RequestParam, oraz @PathVariable.
+- https://www.youtube.com/watch?v=OVKAZJZnGKc
+
+
+3.Uczylem sie o "Dependency Injection" z tego filmu:
+https://www.youtube.com/watch?v=tZQlOthCscM .
+@Component oznacza klase jako "Bean".
+
+
+4.Uzylem infterfejsu lombok @Data w klasie, aby dostarczala(tak mi
+sie wydaje) konstruktor, który przy tworzeniu obiektu tej klasy
+nie wymaga wpisywania parametrów.
+
+"Thymeleaf" pozwala uzywac np "th:text" w plikach html. Wydaje
+mi sie, ze Thymeleaf sluzy do skuteczniejszej "wspólpracy" i 
+latwiejszych odwolan miedzy plikami html i javy w projektach.
+
+- https://www.youtube.com/watch?v=2hxAhxKH1s8
+
+- https://www.youtube.com/watch?v=I3iey-XNwbc
